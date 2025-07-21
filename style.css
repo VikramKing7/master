@@ -60,7 +60,7 @@ button{
     height:48px;
     width:48px;
     cursor:pointer;
-    
+
     
     /* box-shadow:inset -5px -5px 12px rgb(231, 225, 225),
                       5px 5px 12px black; */
@@ -78,7 +78,7 @@ font-size:16px;
                     }
 
                     .equal{
-                        width:280px;
+                        width:180px;
                         border:none;
                         box-shadow:inset -5px -5px 12px rgb(231, 225, 225),
                       5px 5px 12px black;
